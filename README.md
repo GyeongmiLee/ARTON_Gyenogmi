@@ -1,19 +1,18 @@
 # ARTON_Gyenogmi
 아트온 페이지_ 개인 백업본입니다.
-# 프로젝트 이름
+# 아트온
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="./img/arton_cate_.PNG">
   <br>
 </p>
 
-목차
 
-## 프로젝트 소개
+## 프로젝트 목표
 
 <p align="justify">
-프로젝트 개요/동기
+직관적으로 공연 정보를 확인할 수 있고, 구매가 편리한 공연 티켓 판매 사이트 구현
 </p>
 
 <p align="center">
@@ -24,9 +23,9 @@ GIF Images
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
+| JavaScript |   JQuery   |  HTML    |  CSS    |
 | :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|   ![js]    | ![jquery]  | ![html]  | ![css]  |
 
 <br>
 
