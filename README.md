@@ -23,9 +23,9 @@ GIF Images
 
 ## 기술 스택
 
-| JavaScript |   JQuery   |  HTML    |  CSS    |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    | ![jquery]  | ![html]  | ![css]  |
+| JavaScript/JQuery |  HTML    |  CSS    |
+| :---------------: | :------: | :-----: |
+|      ![js]        | ![html]  | ![css]  |
 
 <br>
 
