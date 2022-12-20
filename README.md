@@ -56,7 +56,7 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 <!-- Stack Icon Refernces -->
 
 [js]: ./images/stack/javascript.svg
-[jquery]: ./images/stack/jquery.svg
+[jquery]: ./images/stack/jquery.PNG
 [html]: ./images/stack/html.svg
 [css]: ./images/stack/css.svg
 
