@@ -11,8 +11,7 @@
 ## 프로젝트 일정 및 전체정리(노션)
 
 [![notion]](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa)
-
-
+(클릭시 노션 페이지로 이동)
 <br>
 
 
