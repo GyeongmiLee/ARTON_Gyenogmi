@@ -8,6 +8,14 @@
   <br>
 </p>
 
+## 프로젝트 일정 및 전체정리(노션)
+
+<p align="justify">
+[NoHack]([mailto:lbjp114@gmail.com](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa))
+</p>
+
+<br>
+
 
 ## 프로젝트 목표
 
@@ -15,8 +23,34 @@
 직관적으로 공연 정보를 확인할 수 있고, 구매가 편리한 공연 티켓 판매 사이트 구현
 </p>
 
+<br>
+
+## 프로젝트 기간
+
 <p align="center">
-GIF Images
+2022년 11월 29일 ~ 2022년 12월 8일
+</p>
+
+<br>
+
+
+## 개발 환경
+
+<p align="justify">
+- 운영체제	: Window
+  <br>
+- 개발도구	: Visual Studio Code, Intellij, Oven(카카오 Prototyping tool)
+  <br>
+- DBMS	: Mysql
+  <br>
+- Server : Apache Tomcat 9.0.68
+  <br>
+- Language: Html5, CSS3, JavaScript, JQuery, Jstl, JSP
+  <br>
+- FrameWork: Spring
+  <br>
+- 버전관리 시스템	: git(Github Desktop)
+  <br>
 </p>
 
 <br>
@@ -59,4 +93,5 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 [jquery]: ./images/stack/jquery.PNG
 [html]: ./images/stack/html.svg
 [css]: ./images/stack/css.svg
+[notion]: ./images/stack/notion.svg
 
