@@ -10,9 +10,8 @@
 
 ## 프로젝트 일정 및 전체정리(노션)
 
-<p align="justify">
 [notion](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa)
-</p>
+
 
 <br>
 
@@ -59,8 +58,7 @@
 
 | JavaScript/JQuery |  HTML    |  CSS    |
 | :---------------: | :------: | :-----: |
-|      ![js]        | ![notion]  | ![css]  |
-
+|      ![js]        | ![html]  | ![css]  |
 <br>
 
 ## 구현 기능
