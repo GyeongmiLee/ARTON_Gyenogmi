@@ -11,7 +11,7 @@
 ## 프로젝트 일정 및 전체정리(노션)
 
 <p align="justify">
-[NoHack]([mailto:lbjp114@gmail.com](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa))
+[notion]([mailto:lbjp114@gmail.com](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa))
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 
 ## 프로젝트 기간
 
-<p align="center">
+<p align="justify">
 2022년 11월 29일 ~ 2022년 12월 8일
 </p>
 
@@ -37,19 +37,19 @@
 ## 개발 환경
 
 <p align="justify">
-- 운영체제	: Window
+  - <b>운영체제</b>	: Window
   <br>
-- 개발도구	: Visual Studio Code, Intellij, Oven(카카오 Prototyping tool)
+- <b>개발도구</b>	: Visual Studio Code, Intellij, Oven(카카오 Prototyping tool)
   <br>
-- DBMS	: Mysql
+- <b>DBMS</b>	: Mysql
   <br>
-- Server : Apache Tomcat 9.0.68
+- <b>Server</b> : Apache Tomcat 9.0.68
   <br>
-- Language: Html5, CSS3, JavaScript, JQuery, Jstl, JSP
+- <b>Language</b>: Html5, CSS3, JavaScript, JQuery, Jstl, JSP
   <br>
-- FrameWork: Spring
+- <b>FrameWork</b>: Spring
   <br>
-- 버전관리 시스템	: git(Github Desktop)
+- <b>버전관리 시스템</b>	: git(Github Desktop)
   <br>
 </p>
 
