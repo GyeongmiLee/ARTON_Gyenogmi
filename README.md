@@ -10,7 +10,7 @@
 
 ## 프로젝트 일정 및 전체정리(노션)
 
-[![notion](notion)](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa)
+![notion]
 
 
 <br>
