@@ -59,7 +59,7 @@
 
 | JavaScript/JQuery |  HTML    |  CSS    |
 | :---------------: | :------: | :-----: |
-|      ![js]        | ![html]  | ![css]  |
+|      ![js]        | ![notion]  | ![css]  |
 
 <br>
 
