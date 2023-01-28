@@ -10,9 +10,9 @@
   <br>
 </p>
 
-## 프로젝트로 url
+## 프로젝트 URL
 
-https://project-dearme-gyeongmi.web.app/
+[https://project-dearme-gyeongmi.web.app/](https://gyeongmilee.github.io/ARTON_Gyenogmi/)
 
 ## 프로젝트 일정 및 전체정리(노션)
 
