@@ -1,10 +1,12 @@
 # ARTON_Gyenogmi
-아트온 페이지_ 개인 백업본입니다.
+
+아트온 페이지\_ 개인 백업본입니다.
+
 # 아트온
 
 <p align="center">
   <br>
-  <img src="./img/arton_cate_.PNG">
+  <img src="./img/arton_cate.jpg">
   <br>
 </p>
 
@@ -13,7 +15,6 @@
 [![notion]](https://harmless-patio-fe8.notion.site/ARToN-6b34bf3422d541c5aaa228600b7bb4aa)
 (클릭시 노션 페이지로 이동)
 <br>
-
 
 ## 프로젝트 목표
 
@@ -30,7 +31,6 @@
 </p>
 
 <br>
-
 
 ## 팀 개발 환경
 
@@ -55,21 +55,50 @@
 
 ## 나의 기술 스택
 
-| JavaScript/JQuery |  HTML    |  CSS    |
-| :---------------: | :------: | :-----: |
-|      ![js]        | ![html]  | ![css]  |
+| JavaScript/JQuery |  HTML   |  CSS   |
+| :---------------: | :-----: | :----: |
+|       ![js]       | ![html] | ![css] |
+
 <br>
 
 ## 구현 기능
 
 ### 기능 1
 
+  <br>
+  <img src="./images/common/slide1.PNG">
+  <br>
+
 ### 기능 2
+
+  <br>
+    <img src="./images/common/slide2.PNG">
+  <br>
 
 ### 기능 3
 
+  <br>
+  <img src="./images/common/slide3.PNG">
+  <br>
+
 ### 기능 4
 
+  <br>
+  <img src="./images/common/slide4.PNG">
+  <br>
+
+### 기능 5
+
+  <br>
+  <img src="./images/common/slide5.PNG">
+  <br>
+
+### 기능 6
+
+  <br>
+  <img src="./images/common/slide6.PNG">
+  <br>
+  
 <br>
 
 ## 배운 점 & 아쉬운 점
@@ -91,4 +120,3 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 [html]: ./images/stack/html.svg
 [css]: ./images/stack/css.svg
 [notion]: ./images/stack/notion.svg
-
