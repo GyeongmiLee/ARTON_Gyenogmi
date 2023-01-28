@@ -6,7 +6,7 @@
 
 <p align="center">
   <br>
-  <img src="./img/arton_cate.jpg">
+  <img src="./images/common/arton_cate.jpg">
   <br>
 </p>
 
@@ -99,14 +99,6 @@
   <img src="./images/common/slide6.PNG">
   <br>
   
-<br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
-
 <br>
 
 ## 라이센스
